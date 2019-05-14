@@ -1,0 +1,59 @@
+,Rank,District Name,County,Unnamed: 3,Salary,Rank.1,District Name.1,County.1,Unnamed: 8,Salary.1,Rank.2,District Name.2,County.2,Unnamed: 13,Salary.2
+0,,TN School for the Blind-,,,,,,,,,,,,,
+1,1.0,,Davidson,$,"59,978",51.0,Union City,Obion,$,"48,640",101.0,Newport,Cocke,$,"44,909"
+2,,SSS,,,,,,,,,,,,,
+3,2.0,Oak Ridge,Anderson,$,"59,197",52.0,Henry County,Henry,$,"48,636",102.0,Cannon County,Cannon,$,"44,871"
+4,3.0,Johnson City,Washington,$,"59,130",53.0,Meigs County,Meigs,$,"48,489",103.0,Trenton SSD,Gibson,$,"44,659"
+5,4.0,Maryville,Blount,$,"58,423",54.0,Williamson County,Williamson,$,"48,403",104.0,Jefferson County,Jefferson,$,"44,654"
+6,5.0,Alcoa,Blount,$,"58,367",55.0,Blount County,Blount,$,"48,398",105.0,Lincoln County,Lincoln,$,"44,617"
+7,6.0,Murfreesboro,Rutherford,$,"56,771",56.0,Bledsoe County,Bledsoe,$,"48,123",106.0,Milan SSD,Gibson,$,"44,526"
+8,7.0,Bartlett,Shelby,$,"56,479",57.0,Dickson County,Dickson,$,"47,954",107.0,Crockett County,Crockett,$,"44,448"
+9,8.0,Collierville,Shelby,$,"56,479",58.0,Lexington,Henderson,$,"47,760",108.0,Humphreys County,Humphreys,$,"44,446"
+10,9.0,Arlington,Shelby,$,"55,959",59.0,Coffee County,Coffee,$,"47,749",109.0,Rhea County,Rhea,$,"44,400"
+11,10.0,Bristol,Sullivan,$,"55,900",60.0,White County,White,$,"47,749",110.0,Jackson County,Jackson,$,"44,390"
+12,11.0,Franklin SSD,Williamson,$,"55,576",61.0,Gibson Co SSD,Gibson,$,"47,748",111.0,H-Rock-Bruceton SSD,Carroll,$,"44,299"
+13,,West TN School for the,,,,,,,,,,,,,
+14,12.0,,Madison,$,"54,808",62.0,Warren County,Warren,$,"47,710",112.0,West Carroll SSD,Carroll,$,"44,263"
+15,,Deaf-SSS,,,,,,,,,,,,,
+16,13.0,Davidson County,Davidson,$,"54,535",63.0,Hawkins County,Hawkins,$,"47,644",113.0,Oneida SSD,Scott,$,"44,245"
+17,14.0,Cleveland,Bradley,$,"54,206",64.0,Marion County,Marion,$,"47,618",114.0,Wayne County,Wayne,$,"44,181"
+18,15.0,Lebanon SSD,Wilson,$,"54,166",65.0,Huntingdon SSD,Carroll,$,"47,615",115.0,Union County,Union,$,"43,996"
+19,16.0,Hamilton County,Hamilton,$,"54,141",66.0,Sweetwater,Monroe,$,"47,350",116.0,Lake County,Lake,$,"43,988"
+20,17.0,Germantown,Shelby,$,"53,924",67.0,Elizabethton,Carter,$,"47,349",117.0,Morgan County,Morgan,$,"43,947"
+21,18.0,Rutherford County,Rutherford,$,"53,063",68.0,Stewart County,Stewart,$,"47,274",118.0,McNairy County,McNairy,$,"43,946"
+22,19.0,Montgomery County,Montgomery,$,"53,040",69.0,Madison County,Madison,$,"47,020",119.0,Claiborne County,Claiborne,$,"43,844"
+23,,TN School for the Deaf-,,,,,,,,,,,,,
+24,20.0,,Knox,$,"52,979",70.0,Greene County,Greene,$,"46,951",120.0,Richard City SSD,Marion,$,"43,824"
+25,,SSS,,,,,,,,,,,,,
+26,21.0,Manchester,Coffee,$,"52,978",71.0,Sullivan County,Sullivan,$,"46,882",121.0,Fentress County,Fentress,$,"43,695"
+27,22.0,Etowah,McMinn,$,"52,348",72.0,Houston County,Houston,$,"46,861",122.0,Pickett County,Pickett,$,"43,681"
+28,23.0,Bradley County,Bradley,$,"52,330",73.0,Obion County,Obion,$,"46,734",123.0,Haywood County,Haywood,$,"43,663"
+29,24.0,Knox County,Knox,$,"52,140",74.0,A.C. York Institute-SSS,Fentress,$,"46,690",124.0,Cumberland County,Cumberland,$,"43,403"
+30,25.0,Athens,McMinn,$,"51,907",75.0,Henderson County,Henderson,$,"46,686",125.0,Clay County,Clay,$,"43,350"
+31,26.0,Sevier County,Sevier,$,"51,422",76.0,Lauderdale County,Lauderdale,$,"46,432",126.0,Carter County,Carter,$,"43,335"
+32,27.0,Hamblen County,Hamblen,$,"50,985",77.0,Campbell County,Campbell,$,"46,408",127.0,Van Buren County,Van Buren,$,"43,264"
+33,28.0,Paris SSD,Henry,$,"50,329",78.0,Perry County,Perry,$,"46,395",128.0,Smith County,Smith,$,"43,103"
+34,29.0,Lenoir City,Loudon,$,"50,157",79.0,Humboldt,Gibson,$,"46,348",129.0,Grundy County,Grundy,$,"42,736"
+35,30.0,Fayetteville,Lewis,$,"50,111",80.0,Lawrence County,Lawrence,$,"46,251",130.0,Hancock County,Hancock,$,"42,622"
+36,31.0,Tipton County,Tipton,$,"50,102",81.0,Franklin County,Franklin,$,"46,249",131.0,Scott County,Scott,$,"42,622"
+37,32.0,Dayton,Rhea,$,"49,980",82.0,Cocke County,Cocke,$,"45,891",132.0,Hardin County,Hardin,$,"42,418"
+38,33.0,Rogersville,Hawkins,$,"49,967",83.0,Sumner County,Sumner,$,"45,865",133.0,Overton County,Overton,$,"42,411"
+39,34.0,Tullahoma,Coffee,$,"49,954",84.0,Carroll County,Carroll,$,"45,806",134.0,TN State Minimum,Davidson,$,"40,905"
+40,,,,,,,,,,,,Achievement School,,,
+41,35.0,Sequatchie County,Sequatchie,$,"49,904",85.0,McKenzie SSD,Carroll,$,"45,780",0.0,,Shelby,,
+42,,,,,,,,,,,,District,,,
+43,36.0,Bedford County,Bedford,$,"49,800",86.0,Benton County,Benton,$,"45,772",0.0,Alamo,Crockett,,
+44,37.0,Greeneville,Greene,$,"49,572",87.0,Bells City,Crockett,$,"45,728",0.0,Bradford SSD,Gibson,,
+45,38.0,Robertson County,Robertson,$,"49,365",88.0,South Carroll SSD,Carroll,$,"45,719",0.0,Chester County,Chester,,
+46,39.0,Moore County,Moore,$,"49,328",89.0,Monroe County,Monroe,$,"45,699",0.0,Grainger County,Grainger,,
+47,40.0,Roane County,Roane,$,"49,320",90.0,Weakley County,Weakley,$,"45,692",0.0,Johnson County,Johnson,,
+48,41.0,McMinn County,McMinn,$,"49,239",91.0,Cheatham County,Cheatham,$,"45,596",0.0,Kingsport,Sullivan,,
+49,42.0,Clinton,Anderson,$,"49,076",92.0,Macon County,Macon,$,"45,550",0.0,Lakeland,Shelby,,
+50,43.0,Dyer County,Dyer,$,"49,026",93.0,Giles County,Giles,$,"45,415",0.0,Millington,Shelby,,
+51,44.0,Anderson County,Anderson,$,"48,984",94.0,Unicoi County,Unicoi,$,"45,405",0.0,Putnam County,Putnam,,
+52,45.0,Maury County,Maury,$,"48,959",95.0,Hardeman County,Hardeman,$,"45,242",0.0,Shelby County,Shelby,,
+53,46.0,Washington County,Washington,$,"48,924",96.0,DeKalb County,DeKalb,$,"45,221",0.0,Trousdale County,Trousdale,,
+54,47.0,Loudon County,Loudon,$,"48,845",97.0,Hickman County,Hickman,$,"45,132",0.0,Wilson County,Wilson,,
+55,48.0,Marshall County,Marshall,$,"48,840",98.0,Fayette County,Fayette,$,"45,069",,,,,
+56,49.0,Dyersburg,Dyer,$,"48,761",99.0,Decatur County,Decatur,$,"44,997",,,,,
+57,50.0,Polk County,Polk,$,"48,680",100.0,Lewis County,Lewis,$,"44,977",,Mean:,,$,"48,051"
