@@ -24,4 +24,4 @@ Potential Environmental Issues
 
 
 __Conclusions__
-While each county in TN is unique, several factors do seem to have an impact on chronic student absenteeism.  Further investigation, is needed to discover the impact of additional community concerns such as: 1)environmental factors, 2)demographics, and 3) age of absent student.  In addition, expanding the inquiry to include multiple years and other states may prove valuable in finding additional trends in analysis
+While each county in TN is unique, several factors do seem to have an impact on chronic student absenteeism.  Further investigation, is needed to discover the impact of additional community concerns such as: 1) environmental factors, 2) demographics, and 3) age of absent student.  In addition, expanding the inquiry to include multiple years and other states may prove valuable in finding additional trends in analysis
